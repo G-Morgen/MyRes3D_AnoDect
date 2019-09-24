@@ -7,11 +7,13 @@ pre_trained mobilenet, mobilenetv2, shufflenet, shufflenetv2 on Kinetics dataset
 in run-dad.sh
 
 use 
+
     "--view top" choose top view,
 
     "--view front" choose front view
     
 use 
+
     "--image_type depth" choose depth image,
 
     "--image_type IR" choose infrared image,
