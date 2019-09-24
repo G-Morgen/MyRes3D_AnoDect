@@ -1,5 +1,5 @@
 # AnomalyDetection
-Anomaly detection
+Real-Time Driver Anomaly Detection on Multi-View In-Vehicle Video Streams
 
 
 pre_trained mobilenet, mobilenetv2, shufflenet, shufflenetv2 on Kinetics dataset can be found: https://github.com/okankop/Efficient-3DCNNs
